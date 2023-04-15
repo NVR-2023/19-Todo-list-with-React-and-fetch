@@ -1,3 +1,15 @@
+***************************************************************************************************************
+Exercise #19: ToDO list App using React and fetch 
+Implemented bonus error handling features, like creatubg userName if it doesn't exist onload
+
+
+By Nuno Rodrigues
+
+Mark received:
+Date: 
+Teacher:
+***************************************************************************************************************
+
 # Hello World with React boilerplate
 
 Start coding a react application
